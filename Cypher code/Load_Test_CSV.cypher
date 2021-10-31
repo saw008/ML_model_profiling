@@ -5,7 +5,7 @@ CREATE (
         id: line._id,
         id_model: line.model_id,
         id_test_data: line.test_data,
-        task_category: line.`task.task_category`,
+        category: line.`task.task_category`,
         MAE_500: line.`task.500-MAE`,
         RMSE_500: line.`task.500-RMSE`,
         MAE_300: line.`task.300-MAE`,
