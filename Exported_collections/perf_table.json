@@ -1,0 +1,2041 @@
+[{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2aa8"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a81"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed02"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00138896,
+    "500-RMSE": 0.00177103,
+    "Training_Time": 1174.33,
+    "Inference_Time": 1.268
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2aa9"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a81"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed03"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00222876,
+    "500-RMSE": 0.00244788,
+    "Training_Time": 1174.33,
+    "Inference_Time": 1.268
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2aaa"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a81"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed10"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00186657,
+    "500-RMSE": 0.00224702,
+    "Training_Time": 1174.33,
+    "Inference_Time": 1.268
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2aab"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a81"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed11"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00277587,
+    "500-RMSE": 0.00316254,
+    "Training_Time": 1174.33,
+    "Inference_Time": 1.268
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2aac"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a81"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed1e"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00319733,
+    "500-RMSE": 0.00363586,
+    "Training_Time": 1174.33,
+    "Inference_Time": 1.268
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2aad"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a81"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed1f"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00393529,
+    "500-RMSE": 0.00426773,
+    "Training_Time": 1174.33,
+    "Inference_Time": 1.268
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2aae"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a82"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed2d"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00212435,
+    "500-RMSE": 0.00274243,
+    "Training_Time": 1112.61,
+    "Inference_Time": 1.214
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2aaf"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a82"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed2e"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00146458,
+    "500-RMSE": 0.00182169,
+    "Training_Time": 1112.61,
+    "Inference_Time": 1.214
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ab0"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a82"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed3a"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00257372,
+    "500-RMSE": 0.00333549,
+    "Training_Time": 1112.61,
+    "Inference_Time": 1.214
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ab1"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a82"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed3b"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00232826,
+    "500-RMSE": 0.00284269,
+    "Training_Time": 1112.61,
+    "Inference_Time": 1.214
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ab2"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a82"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed47"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00262049,
+    "500-RMSE": 0.00380856,
+    "Training_Time": 1112.61,
+    "Inference_Time": 1.214
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ab3"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a82"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed48"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00287856,
+    "500-RMSE": 0.00343351,
+    "Training_Time": 1112.61,
+    "Inference_Time": 1.214
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ab4"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a83"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed56"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00254764,
+    "500-RMSE": 0.00273533,
+    "Training_Time": 1144.5,
+    "Inference_Time": 1.141
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ab5"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a83"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed57"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00252998,
+    "500-RMSE": 0.0027204,
+    "Training_Time": 1144.5,
+    "Inference_Time": 1.141
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ab6"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a83"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed65"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00163373,
+    "500-RMSE": 0.00181638,
+    "Training_Time": 1144.5,
+    "Inference_Time": 1.141
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ab7"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a83"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed66"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00507731,
+    "500-RMSE": 0.00537017,
+    "Training_Time": 1144.5,
+    "Inference_Time": 1.141
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ab8"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a83"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed74"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00254801,
+    "500-RMSE": 0.00325402,
+    "Training_Time": 1144.5,
+    "Inference_Time": 1.141
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ab9"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a83"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed75"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00670252,
+    "500-RMSE": 0.00706613,
+    "Training_Time": 1144.5,
+    "Inference_Time": 1.141
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2aba"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a84"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed83"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00212109,
+    "500-RMSE": 0.00223981,
+    "Training_Time": 1147.56,
+    "Inference_Time": 1.147
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2abb"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a84"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed84"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00275642,
+    "500-RMSE": 0.00308464,
+    "Training_Time": 1147.56,
+    "Inference_Time": 1.147
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2abc"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a84"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed91"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00163433,
+    "500-RMSE": 0.00181783,
+    "Training_Time": 1147.56,
+    "Inference_Time": 1.147
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2abd"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a84"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed92"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.003469,
+    "500-RMSE": 0.00364868,
+    "Training_Time": 1147.56,
+    "Inference_Time": 1.147
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2abe"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a84"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed9e"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00121161,
+    "500-RMSE": 0.0015893,
+    "Training_Time": 1147.56,
+    "Inference_Time": 1.147
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2abf"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a84"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed9f"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00416935,
+    "500-RMSE": 0.00430916,
+    "Training_Time": 1147.56,
+    "Inference_Time": 1.147
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ac0"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a85"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edac"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00128903,
+    "500-RMSE": 0.00167139,
+    "Training_Time": 1212.45,
+    "Inference_Time": 1.223
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ac1"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a85"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edad"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00227306,
+    "500-RMSE": 0.00241035,
+    "Training_Time": 1212.45,
+    "Inference_Time": 1.223
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ac2"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a85"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edba"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00260388,
+    "500-RMSE": 0.00340122,
+    "Training_Time": 1212.45,
+    "Inference_Time": 1.223
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ac3"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a85"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edbb"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00128411,
+    "500-RMSE": 0.00151084,
+    "Training_Time": 1212.45,
+    "Inference_Time": 1.223
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ac4"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a85"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edc8"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00275759,
+    "500-RMSE": 0.00347933,
+    "Training_Time": 1212.45,
+    "Inference_Time": 1.223
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ac5"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a85"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edc9"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00150148,
+    "500-RMSE": 0.00168116,
+    "Training_Time": 1212.45,
+    "Inference_Time": 1.223
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ac6"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a86"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edd7"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00029972,
+    "500-RMSE": 0.0003834,
+    "Training_Time": 1193.94,
+    "Inference_Time": 1.247
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ac7"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a86"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edd8"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00013138,
+    "500-RMSE": 0.00017454,
+    "Training_Time": 1193.94,
+    "Inference_Time": 1.247
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ac8"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a86"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ede6"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00037044,
+    "500-RMSE": 0.0004921,
+    "Training_Time": 1193.94,
+    "Inference_Time": 1.247
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ac9"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a86"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ede7"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00021561,
+    "500-RMSE": 0.00030393,
+    "Training_Time": 1193.94,
+    "Inference_Time": 1.247
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2aca"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a86"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee11"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00040304,
+    "500-RMSE": 0.00053798,
+    "Training_Time": 1193.94,
+    "Inference_Time": 1.247
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2acb"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a86"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee12"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00027143,
+    "500-RMSE": 0.00039932,
+    "Training_Time": 1193.94,
+    "Inference_Time": 1.247
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2acc"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a87"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edf5"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00403451,
+    "500-RMSE": 0.00612972,
+    "Training_Time": 1129.95,
+    "Inference_Time": 1.173
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2acd"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a87"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edf6"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00667532,
+    "500-RMSE": 0.00713781,
+    "Training_Time": 1129.95,
+    "Inference_Time": 1.173
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ace"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a87"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee1f"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00140207,
+    "500-RMSE": 0.00148811,
+    "Training_Time": 1129.95,
+    "Inference_Time": 1.173
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2acf"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a87"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee20"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00381882,
+    "500-RMSE": 0.00439486,
+    "Training_Time": 1129.95,
+    "Inference_Time": 1.173
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ad0"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a87"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee2c"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00139855,
+    "500-RMSE": 0.0014794,
+    "Training_Time": 1129.95,
+    "Inference_Time": 1.173
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ad1"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a87"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee2d"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00345707,
+    "500-RMSE": 0.00403334,
+    "Training_Time": 1129.95,
+    "Inference_Time": 1.173
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ad2"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a88"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee03"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00207065,
+    "500-RMSE": 0.00234515,
+    "Training_Time": 1118.61,
+    "Inference_Time": 1.203
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ad3"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a88"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee04"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00349582,
+    "500-RMSE": 0.00376213,
+    "Training_Time": 1118.61,
+    "Inference_Time": 1.203
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ad4"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a88"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee3a"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00150613,
+    "500-RMSE": 0.00194028,
+    "Training_Time": 1118.61,
+    "Inference_Time": 1.203
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ad5"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a88"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee3b"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00253422,
+    "500-RMSE": 0.00282599,
+    "Training_Time": 1118.61,
+    "Inference_Time": 1.203
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ad6"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a88"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee47"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00194761,
+    "500-RMSE": 0.00250462,
+    "Training_Time": 1118.61,
+    "Inference_Time": 1.203
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ad7"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a88"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee48"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00101076,
+    "500-RMSE": 0.00140572,
+    "Training_Time": 1118.61,
+    "Inference_Time": 1.203
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ad8"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a89"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee56"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00042763,
+    "500-RMSE": 0.00054591,
+    "Training_Time": 1201.65,
+    "Inference_Time": 1.219
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ad9"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a89"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee57"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00024116,
+    "500-RMSE": 0.0003309,
+    "Training_Time": 1201.65,
+    "Inference_Time": 1.219
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ada"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a89"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee65"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00029504,
+    "500-RMSE": 0.0004059,
+    "Training_Time": 1201.65,
+    "Inference_Time": 1.219
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2adb"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a89"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee66"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00023351,
+    "500-RMSE": 0.00030682,
+    "Training_Time": 1201.65,
+    "Inference_Time": 1.219
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2adc"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a89"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee74"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00033564,
+    "500-RMSE": 0.00044607,
+    "Training_Time": 1201.65,
+    "Inference_Time": 1.219
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2add"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a89"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee75"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00020937,
+    "500-RMSE": 0.00025174,
+    "Training_Time": 1201.65,
+    "Inference_Time": 1.219
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ade"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a8a"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee83"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00155122,
+    "500-RMSE": 0.00176516,
+    "Training_Time": 1203.38,
+    "Inference_Time": 1.209
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2adf"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a8a"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee84"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00201972,
+    "500-RMSE": 0.00244619,
+    "Training_Time": 1203.38,
+    "Inference_Time": 1.209
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ae0"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a8a"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee91"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00177255,
+    "500-RMSE": 0.002014,
+    "Training_Time": 1203.38,
+    "Inference_Time": 1.209
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ae1"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a8a"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee93"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00219436,
+    "500-RMSE": 0.00281919,
+    "Training_Time": 1203.38,
+    "Inference_Time": 1.209
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ae2"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a8a"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2eea0"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00153124,
+    "500-RMSE": 0.00178099,
+    "Training_Time": 1203.38,
+    "Inference_Time": 1.209
+  }
+},{
+  "_id": {
+    "$oid": "61afc91cb2235aac34cc2ae3"
+  },
+  "model_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a8a"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2eea2"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00249943,
+    "500-RMSE": 0.00328374,
+    "Training_Time": 1203.38,
+    "Inference_Time": 1.209
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2ae4"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8b"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed02"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00138042,
+    "500-RMSE": 0.00192575,
+    "Training_Time": 646.44,
+    "Inference_Time": 1.268
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2ae5"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8b"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed03"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00392903,
+    "500-RMSE": 0.00404629,
+    "Training_Time": 646.44,
+    "Inference_Time": 1.268
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2ae6"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8c"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed10"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00227122,
+    "500-RMSE": 0.00280354,
+    "Training_Time": 652.76,
+    "Inference_Time": 1.273
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2ae7"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8c"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed11"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00292512,
+    "500-RMSE": 0.00311936,
+    "Training_Time": 652.76,
+    "Inference_Time": 1.273
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2ae8"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8d"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed1e"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00225541,
+    "500-RMSE": 0.00318885,
+    "Training_Time": 661.43,
+    "Inference_Time": 1.275
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2ae9"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8d"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed1f"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00651789,
+    "500-RMSE": 0.0068085,
+    "Training_Time": 661.43,
+    "Inference_Time": 1.275
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2aea"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8d"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed2d"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00311929,
+    "500-RMSE": 0.00407908,
+    "Training_Time": 452,
+    "Inference_Time": 1.165
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2aeb"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8d"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed2e"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00176088,
+    "500-RMSE": 0.00283651,
+    "Training_Time": 452,
+    "Inference_Time": 1.165
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2aec"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8f"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed3a"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00198243,
+    "500-RMSE": 0.00280522,
+    "Training_Time": 655.68,
+    "Inference_Time": 1.305
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2aed"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8f"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed3b"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00282127,
+    "500-RMSE": 0.00416393,
+    "Training_Time": 655.68,
+    "Inference_Time": 1.305
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2aee"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a90"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed47"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00282468,
+    "500-RMSE": 0.00348309,
+    "Training_Time": 657.2,
+    "Inference_Time": 1.257
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2aef"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a90"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed48"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.01163058,
+    "500-RMSE": 0.01229342,
+    "Training_Time": 657.2,
+    "Inference_Time": 1.257
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2af0"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa0"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed56"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00165065,
+    "500-RMSE": 0.00263477,
+    "Training_Time": 462.48,
+    "Inference_Time": 1.234
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2af1"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa0"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed57"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00180361,
+    "500-RMSE": 0.00249804,
+    "Training_Time": 462.48,
+    "Inference_Time": 1.234
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2af2"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a92"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed65"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00188814,
+    "500-RMSE": 0.00258481,
+    "Training_Time": 435.72,
+    "Inference_Time": 1.205
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2af3"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a92"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed66"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00246193,
+    "500-RMSE": 0.00353028,
+    "Training_Time": 435.72,
+    "Inference_Time": 1.205
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2af4"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a92"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed74"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00313627,
+    "500-RMSE": 0.00381553,
+    "Training_Time": 459.96,
+    "Inference_Time": 1.264
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2af5"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a92"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed75"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00368346,
+    "500-RMSE": 0.00459667,
+    "Training_Time": 459.96,
+    "Inference_Time": 1.264
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2af6"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa4"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed83"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00107403,
+    "500-RMSE": 0.00129966,
+    "Training_Time": 665.76,
+    "Inference_Time": 1.347
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2af7"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa4"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed84"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00071009,
+    "500-RMSE": 0.00121285,
+    "Training_Time": 665.76,
+    "Inference_Time": 1.347
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2af8"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a92"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed91"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00176567,
+    "500-RMSE": 0.00215637,
+    "Training_Time": 687.64,
+    "Inference_Time": 1.518
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2af9"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a92"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed92"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00143857,
+    "500-RMSE": 0.00237424,
+    "Training_Time": 687.64,
+    "Inference_Time": 1.518
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2afa"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa3"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed9e"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00162125,
+    "500-RMSE": 0.00195123,
+    "Training_Time": 676.24,
+    "Inference_Time": 1.502
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2afb"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa3"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ed9f"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00156097,
+    "500-RMSE": 0.00277045,
+    "Training_Time": 676.24,
+    "Inference_Time": 1.502
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2afc"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa3"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edac"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00147299,
+    "500-RMSE": 0.00187017,
+    "Training_Time": 451.24,
+    "Inference_Time": 1.223
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2afd"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa3"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edad"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00412834,
+    "500-RMSE": 0.00427103,
+    "Training_Time": 451.24,
+    "Inference_Time": 1.223
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2afe"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa7"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edba"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00204157,
+    "500-RMSE": 0.00285731,
+    "Training_Time": 437.96,
+    "Inference_Time": 1.183
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2aff"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa7"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edbb"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.0031067,
+    "500-RMSE": 0.00330816,
+    "Training_Time": 437.96,
+    "Inference_Time": 1.183
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b00"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa7"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edc8"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00216293,
+    "500-RMSE": 0.00277284,
+    "Training_Time": 451,
+    "Inference_Time": 1.205
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b01"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa7"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edc9"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00525772,
+    "500-RMSE": 0.00583851,
+    "Training_Time": 451,
+    "Inference_Time": 1.205
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b02"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9a"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edd7"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00158205,
+    "500-RMSE": 0.00165892,
+    "Training_Time": 453.72,
+    "Inference_Time": 1.191
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b03"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9a"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edd8"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00161954,
+    "500-RMSE": 0.00170754,
+    "Training_Time": 453.72,
+    "Inference_Time": 1.191
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b04"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a92"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ede6"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00063715,
+    "500-RMSE": 0.00075801,
+    "Training_Time": 441,
+    "Inference_Time": 1.177
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b05"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a92"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ede7"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00020964,
+    "500-RMSE": 0.00032066,
+    "Training_Time": 441,
+    "Inference_Time": 1.177
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b06"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa4"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee11"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.0013347,
+    "500-RMSE": 0.00149907,
+    "Training_Time": 669.6,
+    "Inference_Time": 1.238
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b07"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa4"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee12"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00033437,
+    "500-RMSE": 0.00043366,
+    "Training_Time": 669.6,
+    "Inference_Time": 1.238
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b08"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9d"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edf5"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.004368,
+    "500-RMSE": 0.00718504,
+    "Training_Time": 471.92,
+    "Inference_Time": 1.199
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b09"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9d"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2edf6"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00114545,
+    "500-RMSE": 0.0015949,
+    "Training_Time": 471.92,
+    "Inference_Time": 1.199
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b0a"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9e"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee1f"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00049162,
+    "500-RMSE": 0.00061457,
+    "Training_Time": 454.76,
+    "Inference_Time": 1.191
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b0b"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9e"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee20"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00192664,
+    "500-RMSE": 0.00274961,
+    "Training_Time": 454.76,
+    "Inference_Time": 1.191
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b0c"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa3"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee2c"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00069229,
+    "500-RMSE": 0.00098019,
+    "Training_Time": 456.48,
+    "Inference_Time": 1.197
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b0d"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa3"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee2d"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00370477,
+    "500-RMSE": 0.00444745,
+    "Training_Time": 456.48,
+    "Inference_Time": 1.197
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b0e"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa0"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee03"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00806343,
+    "500-RMSE": 0.00852661,
+    "Training_Time": 657.28,
+    "Inference_Time": 1.234
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b0f"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa0"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee04"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00887594,
+    "500-RMSE": 0.00937139,
+    "Training_Time": 657.28,
+    "Inference_Time": 1.234
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b10"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8b"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee3a"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00668227,
+    "500-RMSE": 0.00809193,
+    "Training_Time": 629.28,
+    "Inference_Time": 1.244
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b11"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8b"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee3b"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00768614,
+    "500-RMSE": 0.00944078,
+    "Training_Time": 629.28,
+    "Inference_Time": 1.244
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b12"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a92"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee47"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00951884,
+    "500-RMSE": 0.01032326,
+    "Training_Time": 675.68,
+    "Inference_Time": 1.529
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b13"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a92"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee48"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.01123579,
+    "500-RMSE": 0.01166364,
+    "Training_Time": 675.68,
+    "Inference_Time": 1.529
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b14"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa3"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee56"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00115442,
+    "500-RMSE": 0.00129537,
+    "Training_Time": 469.68,
+    "Inference_Time": 1.2
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b15"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa3"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee57"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00125368,
+    "500-RMSE": 0.00135492,
+    "Training_Time": 469.68,
+    "Inference_Time": 1.2
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b16"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa4"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee65"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00080059,
+    "500-RMSE": 0.00111629,
+    "Training_Time": 633.92,
+    "Inference_Time": 1.26
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b17"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa4"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee66"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.0009008,
+    "500-RMSE": 0.00096779,
+    "Training_Time": 633.92,
+    "Inference_Time": 1.26
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b18"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa5"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee74"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00091655,
+    "500-RMSE": 0.00130554,
+    "Training_Time": 641.12,
+    "Inference_Time": 1.274
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b19"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa5"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee75"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00062289,
+    "500-RMSE": 0.00078068,
+    "Training_Time": 641.12,
+    "Inference_Time": 1.274
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b1a"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a90"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee83"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00109222,
+    "500-RMSE": 0.00146513,
+    "Training_Time": 632.04,
+    "Inference_Time": 1.225
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b1b"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a90"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee84"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00247721,
+    "500-RMSE": 0.00273379,
+    "Training_Time": 632.04,
+    "Inference_Time": 1.225
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b1c"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa7"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee91"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.0008296,
+    "500-RMSE": 0.00127493,
+    "Training_Time": 444.76,
+    "Inference_Time": 1.172
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b1d"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa7"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2ee93"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00344275,
+    "500-RMSE": 0.00385373,
+    "Training_Time": 444.76,
+    "Inference_Time": 1.172
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b1e"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8b"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2eea0"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.0009614,
+    "500-RMSE": 0.00144029,
+    "Training_Time": 438.72,
+    "Inference_Time": 1.224
+  }
+},{
+  "_id": {
+    "$oid": "61afc962b2235aac34cc2b1f"
+  },
+  "model_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8b"
+  },
+  "test_data": {
+    "$oid": "5fbeb895e98c620967f2eea2"
+  },
+  "task": {
+    "task_category": "prediction",
+    "500-MAE": 0.00226026,
+    "500-RMSE": 0.00305006,
+    "Training_Time": 438.72,
+    "Inference_Time": 1.224
+  }
+}]

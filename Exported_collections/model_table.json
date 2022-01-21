@@ -1,0 +1,2867 @@
+[{
+  "_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a85"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2eda0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda4"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda5"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda6"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda7"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda8"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda9"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edaa"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edab"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edae"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edaf"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb4"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb5"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb6"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb7"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb8"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb9"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edbc"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edbd"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edbe"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edbf"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc4"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc5"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc6"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc7"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/10_trained_models/model5-STGCNfrequency501-11388",
+  "task_category": "prediction",
+  "training_time": 1212.45,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a87"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2edf7"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf8"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf9"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edfa"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edfb"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edfc"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edfd"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edfe"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edff"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee00"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee01"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee02"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee05"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee06"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee07"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee08"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee09"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee10"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee13"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee14"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee15"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee16"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee17"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee18"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee19"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1f"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/10_trained_models/model7-STGCNfrequency501-12702",
+  "task_category": "prediction",
+  "training_time": 1129.95,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a83"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed6e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed6f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed70"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed71"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed72"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed73"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed49"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed4a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed4b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed4c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed4d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed4e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed4f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed50"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed51"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed52"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed53"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed54"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed55"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed58"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed59"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed60"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed61"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed62"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed63"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed64"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed67"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed68"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed69"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed6a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed6b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed6c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed6d"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/10_trained_models/model3-STGCNfrequency501-10971",
+  "task_category": "prediction",
+  "training_time": 1144.5,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a90"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed3c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed3d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed3e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed3f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed40"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed41"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed42"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed43"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed44"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed45"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed46"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-2640",
+  "task_category": "prediction",
+  "training_time": 657.2,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a88"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee21"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee22"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee23"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee24"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee25"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee26"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee27"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee28"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee29"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee2a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee2b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee2c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee2e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee2f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee30"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee31"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee32"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee33"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee34"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee35"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee36"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee37"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee38"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee39"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee3c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee3d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee3e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee3f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee40"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee41"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee42"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee43"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee44"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee45"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee46"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/10_trained_models/model8-STGCNfrequency501-12720",
+  "task_category": "prediction",
+  "training_time": 1118.61,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a8a"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee76"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee77"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee78"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee79"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee80"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee81"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee82"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee85"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee86"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee87"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee88"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee89"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee90"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee91"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee94"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee95"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee96"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee97"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee98"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee99"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eea0"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/10_trained_models/model10-STGCNfrequency501-13530",
+  "task_category": "prediction",
+  "training_time": 1203.38,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8d"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed13"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed14"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed15"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed16"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed17"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed18"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed19"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed1a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed1b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed1c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed1d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed12"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-2560",
+  "task_category": "prediction",
+  "training_time": 661.43,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa0"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee24"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee25"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee26"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee27"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee28"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee29"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee2a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee2b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee2c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee21"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee22"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee23"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-2160",
+  "task_category": "prediction",
+  "training_time": 657.28,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a92"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed58"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed59"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed5f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed60"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed61"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed62"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed63"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed64"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1520",
+  "task_category": "prediction",
+  "training_time": 435.72,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9d"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2edf7"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf8"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf9"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edfa"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edfb"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edfc"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edfd"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edfe"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edff"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee00"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee01"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee02"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1760",
+  "task_category": "prediction",
+  "training_time": 471.92,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa3"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee49"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee50"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee51"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee52"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee53"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee54"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee55"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1440",
+  "task_category": "prediction",
+  "training_time": 469.68,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9b"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2edd9"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edda"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eddb"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eddc"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eddd"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edde"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eddf"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede4"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede5"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1520",
+  "task_category": "prediction",
+  "training_time": 441,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a86"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ede8"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede9"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edea"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edeb"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edec"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eded"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edee"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edef"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf4"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edca"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edcb"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edcc"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edcd"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edce"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edcf"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd4"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd5"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd6"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd9"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edda"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eddb"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eddc"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eddd"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edde"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eddf"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede4"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede5"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/10_trained_models/model6-STGCNfrequency501-11600",
+  "task_category": "prediction",
+  "training_time": 1193.94,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9a"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2edca"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edcb"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edcc"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edcd"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edce"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edcf"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd4"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd5"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edd6"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1040",
+  "task_category": "prediction",
+  "training_time": 453.72,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a82"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed20"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed21"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed22"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed23"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed24"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed25"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed26"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed27"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed28"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed29"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed2a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed2b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed2c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed2f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed30"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed31"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed32"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed33"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed34"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed35"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed36"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed37"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed38"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed39"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed3c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed3d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed3e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed3f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed40"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed41"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed42"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed43"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed44"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed45"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed46"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/10_trained_models/model2-STGCNfrequency501-9752",
+  "task_category": "prediction",
+  "training_time": 1112.61,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a93"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed6e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed6f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed70"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed71"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed72"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed73"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed67"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed68"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed69"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed6a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed6b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed6c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed6d"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1520",
+  "task_category": "prediction",
+  "training_time": 459.96,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa4"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee60"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee61"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee62"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee63"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee64"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee58"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee59"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5f"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1600",
+  "task_category": "prediction",
+  "training_time": 633.92,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a96"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed93"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed94"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed95"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed96"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed97"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed98"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed99"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed9a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed9b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed9c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed9d"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1440",
+  "task_category": "prediction",
+  "training_time": 676.24,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8b"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ecf6"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecf7"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecf8"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecf9"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecfa"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecfb"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecfc"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecfd"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecfe"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecff"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed00"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed01"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1200",
+  "task_category": "prediction",
+  "training_time": 646.44,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a81"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ecf6"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecf7"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecf8"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecf9"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecfa"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecfb"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecfc"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecfd"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecfe"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ecff"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed00"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed01"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed04"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed05"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed06"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed07"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed08"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed09"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed12"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed13"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed14"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed15"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed16"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed17"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed18"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed19"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed1a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed1b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed1c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed1d"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/10_trained_models/model1-STGCNfrequency501-10074",
+  "task_category": "prediction",
+  "training_time": 1174.33,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa2"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee41"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee42"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee43"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee44"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee45"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee46"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee3c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee3d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee3e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee3f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee40"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1520",
+  "task_category": "prediction",
+  "training_time": 675.68,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9f"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee13"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee14"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee15"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee16"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee17"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee18"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee19"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee1f"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1440",
+  "task_category": "prediction",
+  "training_time": 456.48,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8c"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed04"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed05"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed06"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed07"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed08"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed09"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed0f"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1840",
+  "task_category": "prediction",
+  "training_time": 652.76,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa1"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee2e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee2f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee30"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee31"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee32"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee33"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee34"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee35"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee36"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee37"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee38"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee39"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1200",
+  "task_category": "prediction",
+  "training_time": 629.28,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a97"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2edaa"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edab"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda4"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda5"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda6"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda7"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda8"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eda9"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1440",
+  "task_category": "prediction",
+  "training_time": 451.24,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9e"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee06"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee07"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee08"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee09"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee0f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee10"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee05"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1360",
+  "task_category": "prediction",
+  "training_time": 454.76,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa8"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2eea0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee94"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee95"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee96"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee97"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee98"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee99"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee9f"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1200",
+  "task_category": "prediction",
+  "training_time": 438.72,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a91"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed4e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed4f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed50"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed51"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed52"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed53"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed54"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed55"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed49"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed4a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed4b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed4c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed4d"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-2160",
+  "task_category": "prediction",
+  "training_time": 462.48,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8e"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed20"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed21"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed22"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed23"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed24"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed25"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed26"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed27"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed28"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed29"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed2a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed2b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed2c"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-2560",
+  "task_category": "prediction",
+  "training_time": 452,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a94"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed76"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed77"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed78"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed79"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed80"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed81"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed82"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1600",
+  "task_category": "prediction",
+  "training_time": 665.76,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a95"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed8e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed8f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed90"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed85"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed86"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed87"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed88"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed89"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed8a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed8b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed8c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed8d"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1520",
+  "task_category": "prediction",
+  "training_time": 687.64,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa7"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee85"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee86"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee87"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee88"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee89"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee8f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee90"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee91"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1680",
+  "task_category": "prediction",
+  "training_time": 444.76,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a8f"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed32"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed33"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed34"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed35"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed36"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed37"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed38"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed39"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed2f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed30"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed31"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-400",
+  "task_category": "prediction",
+  "training_time": 655.68,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a99"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2edbc"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edbd"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edbe"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edbf"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc4"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc5"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc6"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edc7"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1680",
+  "task_category": "prediction",
+  "training_time": 451,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa6"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee80"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee81"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee82"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee76"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee77"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee78"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee79"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee7f"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-2640",
+  "task_category": "prediction",
+  "training_time": 632.04,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a9c"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ede8"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ede9"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edea"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edeb"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edec"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2eded"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edee"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edef"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edf4"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1600",
+  "task_category": "prediction",
+  "training_time": 669.6,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a89"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee60"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee61"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee62"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee63"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee64"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee67"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee68"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee69"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee70"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee71"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee72"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee73"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee49"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee4f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee50"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee51"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee52"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee53"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee54"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee55"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee58"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee59"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee5f"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/10_trained_models/model9-STGCNfrequency501-14310",
+  "task_category": "prediction",
+  "training_time": 1201.65,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc5267ef9ad7c82692b9a84"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ed76"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed77"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed78"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed79"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed7f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed80"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed81"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed82"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed85"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed86"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed87"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed88"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed89"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed8a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed8b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed8c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed8d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed8e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed8f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed90"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed93"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed94"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed95"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed96"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed97"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed98"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed99"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed9a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed9b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed9c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ed9d"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/10_trained_models/model4-STGCNfrequency501-10512",
+  "task_category": "prediction",
+  "training_time": 1147.56,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9aa5"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2ee67"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee68"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee69"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6a"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6b"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6c"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6d"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6e"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee6f"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee70"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee71"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee72"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2ee73"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-720",
+  "task_category": "prediction",
+  "training_time": 641.12,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+},{
+  "_id": {
+    "$oid": "5fc526cff9ad7c82692b9a98"
+  },
+  "training_data": [
+    {
+      "$oid": "5fbeb895e98c620967f2edae"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edaf"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb0"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb1"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb2"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb3"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb4"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb5"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb6"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb7"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb8"
+    },
+    {
+      "$oid": "5fbeb895e98c620967f2edb9"
+    }
+  ],
+  "model_type": "STGCN",
+  "model_loc": "/content/drive/MyDrive/myThesis/test001/Training/saved_30models/501-1680",
+  "task_category": "prediction",
+  "training_time": 437.96,
+  "learning_rate": 0.001,
+  "batch_size": 1000,
+  "epoch_number": 30,
+  "applied_libs": [
+    "TensorFlow"
+  ]
+}]

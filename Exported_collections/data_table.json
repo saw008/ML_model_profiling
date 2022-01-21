@@ -1,0 +1,5578 @@
+[{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed25"
+  },
+  "pattern": {
+    "min": 59.9856,
+    "max": 60.0047,
+    "avg": 59.9971,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario51"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed07"
+  },
+  "pattern": {
+    "min": 59.9781,
+    "max": 60.0111,
+    "avg": 59.9956,
+    "std": 0.0023,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario20"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ecfe"
+  },
+  "pattern": {
+    "min": 59.9853,
+    "max": 60.0129,
+    "avg": 59.9972,
+    "std": 0.0018,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario10"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ecf6"
+  },
+  "pattern": {
+    "min": 59.9553,
+    "max": 60.0137,
+    "avg": 59.9976,
+    "std": 0.0044,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario1"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed0d"
+  },
+  "pattern": {
+    "min": 59.9975,
+    "max": 60.0122,
+    "avg": 60.003,
+    "std": 0.0016,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario26"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed2a"
+  },
+  "pattern": {
+    "min": 59.9773,
+    "max": 60,
+    "avg": 59.9954,
+    "std": 0.0028,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario56"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ecfb"
+  },
+  "pattern": {
+    "min": 59.9842,
+    "max": 60.0169,
+    "avg": 60.0032,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario7"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee1d"
+  },
+  "pattern": {
+    "min": 59.9857,
+    "max": 60.01,
+    "avg": 59.997,
+    "std": 0.0018,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario311"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed3b"
+  },
+  "pattern": {
+    "min": 59.9756,
+    "max": 60.0084,
+    "avg": 59.9949,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario75"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edc8"
+  },
+  "pattern": {
+    "min": 59.9999,
+    "max": 60.0369,
+    "avg": 60.0097,
+    "std": 0.0045,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario224"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee09"
+  },
+  "pattern": {
+    "min": 59.9871,
+    "max": 60.0514,
+    "avg": 60.0043,
+    "std": 0.0054,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario291"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee32"
+  },
+  "pattern": {
+    "min": 59.9942,
+    "max": 60.0137,
+    "avg": 60.0016,
+    "std": 0.002,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario336"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee26"
+  },
+  "pattern": {
+    "min": 59.952,
+    "max": 60.0306,
+    "avg": 60.0053,
+    "std": 0.0053,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario322"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee8b"
+  },
+  "pattern": {
+    "min": 59.9958,
+    "max": 60.0127,
+    "avg": 60.0008,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario427"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed7a"
+  },
+  "pattern": {
+    "min": 59.9935,
+    "max": 60.0091,
+    "avg": 59.9984,
+    "std": 0.0014,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario140"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee19"
+  },
+  "pattern": {
+    "min": 59.9604,
+    "max": 60.0245,
+    "avg": 60.0041,
+    "std": 0.0043,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario307"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee60"
+  },
+  "pattern": {
+    "min": 59.997,
+    "max": 60.0097,
+    "avg": 60.0006,
+    "std": 0.0009,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario384"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee9d"
+  },
+  "pattern": {
+    "min": 59.9783,
+    "max": 60.0046,
+    "avg": 59.9974,
+    "std": 0.0021,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario445"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee35"
+  },
+  "pattern": {
+    "min": 60.0038,
+    "max": 60.0438,
+    "avg": 60.0118,
+    "std": 0.0061,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario339"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eea0"
+  },
+  "pattern": {
+    "min": 59.9887,
+    "max": 60.0072,
+    "avg": 59.9983,
+    "std": 0.0016,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario448"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed3d"
+  },
+  "pattern": {
+    "min": 59.9644,
+    "max": 60.0782,
+    "avg": 59.9981,
+    "std": 0.0104,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario77"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed56"
+  },
+  "pattern": {
+    "min": 59.9974,
+    "max": 60.0133,
+    "avg": 60.0032,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario104"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee04"
+  },
+  "pattern": {
+    "min": 59.9851,
+    "max": 59.9996,
+    "avg": 59.996,
+    "std": 0.002,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario285"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edef"
+  },
+  "pattern": {
+    "min": 59.9784,
+    "max": 60.0016,
+    "avg": 59.9952,
+    "std": 0.0032,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario263"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee88"
+  },
+  "pattern": {
+    "min": 59.9956,
+    "max": 60.0242,
+    "avg": 60.0042,
+    "std": 0.0034,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario424"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed78"
+  },
+  "pattern": {
+    "min": 59.9885,
+    "max": 60.0093,
+    "avg": 60.0022,
+    "std": 0.0013,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario138"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ede1"
+  },
+  "pattern": {
+    "min": 59.9974,
+    "max": 60.0074,
+    "avg": 60.0002,
+    "std": 0.0006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario249"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edf3"
+  },
+  "pattern": {
+    "min": 59.9917,
+    "max": 60.0093,
+    "avg": 59.9981,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario267"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee5e"
+  },
+  "pattern": {
+    "min": 59.9789,
+    "max": 60.0076,
+    "avg": 59.9992,
+    "std": 0.0022,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario382"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed90"
+  },
+  "pattern": {
+    "min": 59.9904,
+    "max": 60.008,
+    "avg": 59.9999,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario163"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed48"
+  },
+  "pattern": {
+    "min": 59.9704,
+    "max": 60.0105,
+    "avg": 59.9939,
+    "std": 0.0037,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario90"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed7e"
+  },
+  "pattern": {
+    "min": 59.9856,
+    "max": 60.0045,
+    "avg": 60.0001,
+    "std": 0.0022,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario144"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ecf9"
+  },
+  "pattern": {
+    "min": 59.9845,
+    "max": 60.0076,
+    "avg": 59.9968,
+    "std": 0.0016,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario5"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed1a"
+  },
+  "pattern": {
+    "min": 59.975,
+    "max": 60.0228,
+    "avg": 59.9955,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario40"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed0f"
+  },
+  "pattern": {
+    "min": 59.9818,
+    "max": 60.0065,
+    "avg": 60.0001,
+    "std": 0.0017,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario28"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed03"
+  },
+  "pattern": {
+    "min": 59.9967,
+    "max": 60.0104,
+    "avg": 60.0014,
+    "std": 0.0008,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario15"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed19"
+  },
+  "pattern": {
+    "min": 59.9584,
+    "max": 60.0261,
+    "avg": 59.9899,
+    "std": 0.006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario39"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed1f"
+  },
+  "pattern": {
+    "min": 59.9944,
+    "max": 60.0181,
+    "avg": 60.0026,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario45"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed38"
+  },
+  "pattern": {
+    "min": 59.9955,
+    "max": 60.0306,
+    "avg": 60.0082,
+    "std": 0.0039,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario72"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed67"
+  },
+  "pattern": {
+    "min": 59.9662,
+    "max": 60.0035,
+    "avg": 59.9945,
+    "std": 0.0052,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario121"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edb6"
+  },
+  "pattern": {
+    "min": 59.9816,
+    "max": 60.0005,
+    "avg": 59.9954,
+    "std": 0.0024,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario205"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edbb"
+  },
+  "pattern": {
+    "min": 59.9974,
+    "max": 60.0142,
+    "avg": 60.0022,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario210"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edc7"
+  },
+  "pattern": {
+    "min": 59.997,
+    "max": 60.0041,
+    "avg": 60.0009,
+    "std": 0.0006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario223"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edbc"
+  },
+  "pattern": {
+    "min": 59.9842,
+    "max": 60.0088,
+    "avg": 59.9998,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario211"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee9b"
+  },
+  "pattern": {
+    "min": 59.9556,
+    "max": 60.0183,
+    "avg": 60.0003,
+    "std": 0.0051,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario443"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eda9"
+  },
+  "pattern": {
+    "min": 59.9972,
+    "max": 60.0066,
+    "avg": 60.0012,
+    "std": 0.0008,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario191"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee4b"
+  },
+  "pattern": {
+    "min": 59.9897,
+    "max": 60.0029,
+    "avg": 59.9997,
+    "std": 0.0009,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario363"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed79"
+  },
+  "pattern": {
+    "min": 59.9916,
+    "max": 60.0341,
+    "avg": 60.0037,
+    "std": 0.0045,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario139"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eda6"
+  },
+  "pattern": {
+    "min": 59.9762,
+    "max": 59.9987,
+    "avg": 59.9935,
+    "std": 0.0035,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario188"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee37"
+  },
+  "pattern": {
+    "min": 59.9648,
+    "max": 60.0062,
+    "avg": 59.9915,
+    "std": 0.0047,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario341"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee6b"
+  },
+  "pattern": {
+    "min": 59.9961,
+    "max": 60.0106,
+    "avg": 60.0004,
+    "std": 0.0011,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario395"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed95"
+  },
+  "pattern": {
+    "min": 59.9807,
+    "max": 60.0167,
+    "avg": 60.0041,
+    "std": 0.0023,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario168"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee39"
+  },
+  "pattern": {
+    "min": 59.9969,
+    "max": 60.0084,
+    "avg": 60.0021,
+    "std": 0.0011,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario343"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee18"
+  },
+  "pattern": {
+    "min": 59.9821,
+    "max": 60.0354,
+    "avg": 59.9984,
+    "std": 0.0041,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario306"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee5f"
+  },
+  "pattern": {
+    "min": 59.9865,
+    "max": 60.005,
+    "avg": 59.9998,
+    "std": 0.002,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario383"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed66"
+  },
+  "pattern": {
+    "min": 59.998,
+    "max": 60.0219,
+    "avg": 60.0055,
+    "std": 0.0028,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario120"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee50"
+  },
+  "pattern": {
+    "min": 59.9835,
+    "max": 60.0062,
+    "avg": 59.9998,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario368"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ede3"
+  },
+  "pattern": {
+    "min": 59.9921,
+    "max": 60.0028,
+    "avg": 59.9995,
+    "std": 0.0003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario251"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edff"
+  },
+  "pattern": {
+    "min": 59.981,
+    "max": 60.0008,
+    "avg": 59.9948,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario280"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee45"
+  },
+  "pattern": {
+    "min": 59.9775,
+    "max": 60.0235,
+    "avg": 60.001,
+    "std": 0.0023,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario357"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee9e"
+  },
+  "pattern": {
+    "min": 59.9785,
+    "max": 60.0051,
+    "avg": 59.9974,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario446"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed87"
+  },
+  "pattern": {
+    "min": 59.984,
+    "max": 60.0134,
+    "avg": 60.0033,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario153"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee11"
+  },
+  "pattern": {
+    "min": 59.9971,
+    "max": 60.0106,
+    "avg": 60.0005,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario299"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed18"
+  },
+  "pattern": {
+    "min": 59.9606,
+    "max": 59.9993,
+    "avg": 59.9898,
+    "std": 0.006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario38"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed2e"
+  },
+  "pattern": {
+    "min": 59.9825,
+    "max": 60.0059,
+    "avg": 59.9963,
+    "std": 0.0022,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario60"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ecf7"
+  },
+  "pattern": {
+    "min": 59.9895,
+    "max": 60.0224,
+    "avg": 60.0057,
+    "std": 0.0032,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario3"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed29"
+  },
+  "pattern": {
+    "min": 59.9838,
+    "max": 60.0022,
+    "avg": 59.9963,
+    "std": 0.0021,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario55"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed15"
+  },
+  "pattern": {
+    "min": 59.9733,
+    "max": 60.014,
+    "avg": 59.9948,
+    "std": 0.0028,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario35"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed9b"
+  },
+  "pattern": {
+    "min": 59.9768,
+    "max": 60.0084,
+    "avg": 60.001,
+    "std": 0.0036,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario174"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee0a"
+  },
+  "pattern": {
+    "min": 59.9973,
+    "max": 60.0088,
+    "avg": 60.0011,
+    "std": 0.0004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario292"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edde"
+  },
+  "pattern": {
+    "min": 59.9892,
+    "max": 60.0417,
+    "avg": 60.0032,
+    "std": 0.0043,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario246"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee55"
+  },
+  "pattern": {
+    "min": 59.9933,
+    "max": 60.0017,
+    "avg": 59.9997,
+    "std": 0.0011,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario373"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed6a"
+  },
+  "pattern": {
+    "min": 59.9844,
+    "max": 60.0539,
+    "avg": 60.0042,
+    "std": 0.0072,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario124"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed72"
+  },
+  "pattern": {
+    "min": 59.9699,
+    "max": 60.0305,
+    "avg": 59.9953,
+    "std": 0.0048,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario132"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edd6"
+  },
+  "pattern": {
+    "min": 59.9966,
+    "max": 60.0007,
+    "avg": 59.9997,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario238"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee1a"
+  },
+  "pattern": {
+    "min": 59.9697,
+    "max": 60.0023,
+    "avg": 59.9934,
+    "std": 0.0045,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario308"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee53"
+  },
+  "pattern": {
+    "min": 59.9964,
+    "max": 60.0111,
+    "avg": 60.0006,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario371"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee8e"
+  },
+  "pattern": {
+    "min": 59.9821,
+    "max": 60.0037,
+    "avg": 59.9977,
+    "std": 0.0018,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario430"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed5b"
+  },
+  "pattern": {
+    "min": 59.9866,
+    "max": 60.0435,
+    "avg": 60.003,
+    "std": 0.0058,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario109"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee4e"
+  },
+  "pattern": {
+    "min": 59.9973,
+    "max": 60.0064,
+    "avg": 60.0002,
+    "std": 0.0008,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario366"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed80"
+  },
+  "pattern": {
+    "min": 59.9629,
+    "max": 60.0132,
+    "avg": 59.9996,
+    "std": 0.0056,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario146"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edda"
+  },
+  "pattern": {
+    "min": 59.9898,
+    "max": 60.0384,
+    "avg": 60.0023,
+    "std": 0.0047,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario242"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee12"
+  },
+  "pattern": {
+    "min": 59.9949,
+    "max": 60.0018,
+    "avg": 60,
+    "std": 0.0003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario300"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee92"
+  },
+  "pattern": {
+    "min": 59.9904,
+    "max": 60.0169,
+    "avg": 60.0037,
+    "std": 0.0016,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario434"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed3c"
+  },
+  "pattern": {
+    "min": 59.9477,
+    "max": 60.0312,
+    "avg": 60.0052,
+    "std": 0.0076,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario76"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee1f"
+  },
+  "pattern": {
+    "min": 59.9968,
+    "max": 60.0006,
+    "avg": 59.9998,
+    "std": 0.0004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario313"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee0c"
+  },
+  "pattern": {
+    "min": 59.9968,
+    "max": 60.0092,
+    "avg": 60.0002,
+    "std": 0.0007,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario294"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee49"
+  },
+  "pattern": {
+    "min": 59.9686,
+    "max": 60.0106,
+    "avg": 59.9985,
+    "std": 0.0041,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario361"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edc0"
+  },
+  "pattern": {
+    "min": 59.9904,
+    "max": 60.0177,
+    "avg": 60.0023,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario216"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eded"
+  },
+  "pattern": {
+    "min": 59.9866,
+    "max": 60.0247,
+    "avg": 59.9986,
+    "std": 0.003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario261"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed82"
+  },
+  "pattern": {
+    "min": 59.9931,
+    "max": 60.0055,
+    "avg": 59.9999,
+    "std": 0.0007,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario148"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edd1"
+  },
+  "pattern": {
+    "min": 59.9715,
+    "max": 60.0103,
+    "avg": 59.999,
+    "std": 0.0033,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario233"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edf0"
+  },
+  "pattern": {
+    "min": 59.9826,
+    "max": 60.0184,
+    "avg": 59.9963,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario264"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed8a"
+  },
+  "pattern": {
+    "min": 59.9945,
+    "max": 60.0221,
+    "avg": 60.0011,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario156"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed9c"
+  },
+  "pattern": {
+    "min": 59.9934,
+    "max": 60.0423,
+    "avg": 60.0063,
+    "std": 0.0066,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario177"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edc5"
+  },
+  "pattern": {
+    "min": 59.9952,
+    "max": 60.0115,
+    "avg": 60.0022,
+    "std": 0.0013,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario221"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed58"
+  },
+  "pattern": {
+    "min": 59.9721,
+    "max": 60.0027,
+    "avg": 59.9953,
+    "std": 0.0043,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario106"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edc3"
+  },
+  "pattern": {
+    "min": 59.956,
+    "max": 60.0046,
+    "avg": 59.9878,
+    "std": 0.0056,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario219"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edd0"
+  },
+  "pattern": {
+    "min": 59.9983,
+    "max": 60.0049,
+    "avg": 60.0006,
+    "std": 0.0002,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario232"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee62"
+  },
+  "pattern": {
+    "min": 59.9971,
+    "max": 60.0091,
+    "avg": 60.0005,
+    "std": 0.0008,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario386"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed30"
+  },
+  "pattern": {
+    "min": 59.9696,
+    "max": 60.0632,
+    "avg": 59.9976,
+    "std": 0.0085,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario62"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed37"
+  },
+  "pattern": {
+    "min": 59.9684,
+    "max": 60.0002,
+    "avg": 59.9938,
+    "std": 0.0039,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario71"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed41"
+  },
+  "pattern": {
+    "min": 59.9571,
+    "max": 60.0157,
+    "avg": 59.9985,
+    "std": 0.0051,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario83"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed44"
+  },
+  "pattern": {
+    "min": 59.9618,
+    "max": 60.0005,
+    "avg": 59.9927,
+    "std": 0.0047,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario86"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed54"
+  },
+  "pattern": {
+    "min": 59.9824,
+    "max": 60.0172,
+    "avg": 59.9969,
+    "std": 0.0028,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario102"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee34"
+  },
+  "pattern": {
+    "min": 59.9756,
+    "max": 59.9985,
+    "avg": 59.9944,
+    "std": 0.0035,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario338"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed52"
+  },
+  "pattern": {
+    "min": 59.9827,
+    "max": 60.0019,
+    "avg": 59.9972,
+    "std": 0.0023,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario100"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed7d"
+  },
+  "pattern": {
+    "min": 59.9794,
+    "max": 60.0062,
+    "avg": 59.9987,
+    "std": 0.0027,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario143"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed43"
+  },
+  "pattern": {
+    "min": 59.9725,
+    "max": 60.0039,
+    "avg": 59.994,
+    "std": 0.0036,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario85"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edcc"
+  },
+  "pattern": {
+    "min": 59.9984,
+    "max": 60.0058,
+    "avg": 60.0005,
+    "std": 0.0004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario228"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee07"
+  },
+  "pattern": {
+    "min": 59.958,
+    "max": 60.0127,
+    "avg": 59.9985,
+    "std": 0.0041,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario289"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee67"
+  },
+  "pattern": {
+    "min": 59.9817,
+    "max": 60.006,
+    "avg": 59.999,
+    "std": 0.0024,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario391"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee90"
+  },
+  "pattern": {
+    "min": 59.9944,
+    "max": 60.0174,
+    "avg": 60.0004,
+    "std": 0.0023,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario432"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed6e"
+  },
+  "pattern": {
+    "min": 59.9793,
+    "max": 60.0285,
+    "avg": 60.0084,
+    "std": 0.0047,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario128"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed9a"
+  },
+  "pattern": {
+    "min": 59.9653,
+    "max": 60.011,
+    "avg": 59.9983,
+    "std": 0.0047,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario173"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ede6"
+  },
+  "pattern": {
+    "min": 59.9976,
+    "max": 60.0085,
+    "avg": 60.0004,
+    "std": 0.0008,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario254"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edb2"
+  },
+  "pattern": {
+    "min": 59.9921,
+    "max": 60.0144,
+    "avg": 60.0019,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario201"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edfe"
+  },
+  "pattern": {
+    "min": 60.0027,
+    "max": 60.0308,
+    "avg": 60.0083,
+    "std": 0.0043,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario279"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed4a"
+  },
+  "pattern": {
+    "min": 59.9919,
+    "max": 60.0302,
+    "avg": 60.0024,
+    "std": 0.0043,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario92"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edcf"
+  },
+  "pattern": {
+    "min": 59.992,
+    "max": 60.0292,
+    "avg": 60.002,
+    "std": 0.003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario231"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edcd"
+  },
+  "pattern": {
+    "min": 59.9753,
+    "max": 60.0072,
+    "avg": 59.9989,
+    "std": 0.0024,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario229"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee30"
+  },
+  "pattern": {
+    "min": 59.9952,
+    "max": 60.0147,
+    "avg": 60.0035,
+    "std": 0.0018,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario334"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edfb"
+  },
+  "pattern": {
+    "min": 59.9959,
+    "max": 60.0096,
+    "avg": 60.0011,
+    "std": 0.0014,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario276"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee21"
+  },
+  "pattern": {
+    "min": 59.9658,
+    "max": 60.0201,
+    "avg": 60.0042,
+    "std": 0.0043,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario316"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee0e"
+  },
+  "pattern": {
+    "min": 59.9904,
+    "max": 60.0035,
+    "avg": 59.9994,
+    "std": 0.0004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario296"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee1c"
+  },
+  "pattern": {
+    "min": 59.9855,
+    "max": 60.0053,
+    "avg": 60.0003,
+    "std": 0.0013,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario310"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed46"
+  },
+  "pattern": {
+    "min": 59.9697,
+    "max": 60.0091,
+    "avg": 59.9937,
+    "std": 0.0044,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario88"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed65"
+  },
+  "pattern": {
+    "min": 59.9967,
+    "max": 60.0191,
+    "avg": 60.0049,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario119"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed01"
+  },
+  "pattern": {
+    "min": 59.987,
+    "max": 60.0045,
+    "avg": 60,
+    "std": 0.0012,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario13"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed05"
+  },
+  "pattern": {
+    "min": 59.9853,
+    "max": 60.0323,
+    "avg": 60.0083,
+    "std": 0.0045,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario18"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed24"
+  },
+  "pattern": {
+    "min": 59.9974,
+    "max": 60.0273,
+    "avg": 60.0068,
+    "std": 0.0038,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario50"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ecfd"
+  },
+  "pattern": {
+    "min": 59.9748,
+    "max": 60.015,
+    "avg": 59.9938,
+    "std": 0.0036,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario9"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed12"
+  },
+  "pattern": {
+    "min": 59.9241,
+    "max": 60.0242,
+    "avg": 59.997,
+    "std": 0.0074,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario31"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edc4"
+  },
+  "pattern": {
+    "min": 59.9775,
+    "max": 60.0007,
+    "avg": 59.9944,
+    "std": 0.0029,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario220"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee02"
+  },
+  "pattern": {
+    "min": 59.9978,
+    "max": 60.0059,
+    "avg": 60.0015,
+    "std": 0.0008,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario283"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee03"
+  },
+  "pattern": {
+    "min": 59.9829,
+    "max": 60.0024,
+    "avg": 59.9954,
+    "std": 0.0023,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario284"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed3a"
+  },
+  "pattern": {
+    "min": 59.9908,
+    "max": 60.0296,
+    "avg": 60.0023,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario74"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed3e"
+  },
+  "pattern": {
+    "min": 59.9989,
+    "max": 60.0466,
+    "avg": 60.0105,
+    "std": 0.0056,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario78"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed63"
+  },
+  "pattern": {
+    "min": 59.9753,
+    "max": 60.0246,
+    "avg": 59.9959,
+    "std": 0.004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario117"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eda2"
+  },
+  "pattern": {
+    "min": 59.9962,
+    "max": 60.0002,
+    "avg": 59.9994,
+    "std": 0.0006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario184"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee5d"
+  },
+  "pattern": {
+    "min": 59.9978,
+    "max": 60.0052,
+    "avg": 60.0002,
+    "std": 0.0007,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario381"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed5d"
+  },
+  "pattern": {
+    "min": 59.9986,
+    "max": 60.027,
+    "avg": 60.0068,
+    "std": 0.0034,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario111"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edb1"
+  },
+  "pattern": {
+    "min": 59.9794,
+    "max": 60.0045,
+    "avg": 59.9955,
+    "std": 0.0021,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario200"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee46"
+  },
+  "pattern": {
+    "min": 59.9962,
+    "max": 60.0103,
+    "avg": 60.0026,
+    "std": 0.0014,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario358"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee36"
+  },
+  "pattern": {
+    "min": 59.9733,
+    "max": 60.0011,
+    "avg": 59.9928,
+    "std": 0.0035,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario340"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee79"
+  },
+  "pattern": {
+    "min": 59.9968,
+    "max": 60.0168,
+    "avg": 60.0028,
+    "std": 0.0024,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario409"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed49"
+  },
+  "pattern": {
+    "min": 59.98,
+    "max": 60.0018,
+    "avg": 59.9965,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario91"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed5a"
+  },
+  "pattern": {
+    "min": 59.9709,
+    "max": 60.0028,
+    "avg": 59.9928,
+    "std": 0.0032,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario108"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed81"
+  },
+  "pattern": {
+    "min": 59.9957,
+    "max": 60.0237,
+    "avg": 60.0031,
+    "std": 0.0037,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario147"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edd3"
+  },
+  "pattern": {
+    "min": 59.9955,
+    "max": 60.0028,
+    "avg": 60.0002,
+    "std": 0.0004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario235"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edf5"
+  },
+  "pattern": {
+    "min": 59.9984,
+    "max": 60.0456,
+    "avg": 60.0118,
+    "std": 0.0057,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario269"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edea"
+  },
+  "pattern": {
+    "min": 59.991,
+    "max": 60.0056,
+    "avg": 60.0008,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario258"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee28"
+  },
+  "pattern": {
+    "min": 59.9712,
+    "max": 60.0323,
+    "avg": 59.9943,
+    "std": 0.0052,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario324"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed47"
+  },
+  "pattern": {
+    "min": 59.9892,
+    "max": 60.0366,
+    "avg": 60.0033,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario89"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ede8"
+  },
+  "pattern": {
+    "min": 59.9797,
+    "max": 60.0114,
+    "avg": 60.0021,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario256"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edf6"
+  },
+  "pattern": {
+    "min": 59.9895,
+    "max": 60.0128,
+    "avg": 60.003,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario270"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee4d"
+  },
+  "pattern": {
+    "min": 59.9934,
+    "max": 60.0187,
+    "avg": 60.0008,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario365"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee7d"
+  },
+  "pattern": {
+    "min": 59.974,
+    "max": 60.0104,
+    "avg": 59.9999,
+    "std": 0.003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario413"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed4d"
+  },
+  "pattern": {
+    "min": 59.9977,
+    "max": 60.0236,
+    "avg": 60.0039,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario95"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee14"
+  },
+  "pattern": {
+    "min": 60.0031,
+    "max": 60.0488,
+    "avg": 60.0127,
+    "std": 0.0078,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario302"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee3d"
+  },
+  "pattern": {
+    "min": 59.9856,
+    "max": 60.033,
+    "avg": 60.0084,
+    "std": 0.0046,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario348"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed8d"
+  },
+  "pattern": {
+    "min": 59.9804,
+    "max": 60.0066,
+    "avg": 60.0005,
+    "std": 0.003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario159"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edbe"
+  },
+  "pattern": {
+    "min": 59.9935,
+    "max": 60.0004,
+    "avg": 59.9989,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario214"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee83"
+  },
+  "pattern": {
+    "min": 59.9927,
+    "max": 60.0116,
+    "avg": 60.0021,
+    "std": 0.0011,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario419"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed06"
+  },
+  "pattern": {
+    "min": 59.9875,
+    "max": 60.0048,
+    "avg": 59.9998,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario19"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed14"
+  },
+  "pattern": {
+    "min": 59.9848,
+    "max": 60.0059,
+    "avg": 59.9997,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario34"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed2f"
+  },
+  "pattern": {
+    "min": 59.957,
+    "max": 60.0252,
+    "avg": 60.0038,
+    "std": 0.0061,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario61"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee47"
+  },
+  "pattern": {
+    "min": 59.9709,
+    "max": 60.0043,
+    "avg": 59.9923,
+    "std": 0.0038,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario359"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edb4"
+  },
+  "pattern": {
+    "min": 59.9665,
+    "max": 59.9982,
+    "avg": 59.9909,
+    "std": 0.005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario203"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee78"
+  },
+  "pattern": {
+    "min": 59.9981,
+    "max": 60.0056,
+    "avg": 60,
+    "std": 0.0007,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario408"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edc1"
+  },
+  "pattern": {
+    "min": 59.9947,
+    "max": 60.0296,
+    "avg": 60.0077,
+    "std": 0.0037,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario217"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee8c"
+  },
+  "pattern": {
+    "min": 59.9636,
+    "max": 60.0148,
+    "avg": 60.0001,
+    "std": 0.0042,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario428"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee73"
+  },
+  "pattern": {
+    "min": 59.9961,
+    "max": 60.001,
+    "avg": 59.9998,
+    "std": 0.0006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario403"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee81"
+  },
+  "pattern": {
+    "min": 59.9959,
+    "max": 60.0121,
+    "avg": 60.0001,
+    "std": 0.0016,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario417"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee06"
+  },
+  "pattern": {
+    "min": 59.9974,
+    "max": 60.0102,
+    "avg": 60.0009,
+    "std": 0.0008,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario288"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed36"
+  },
+  "pattern": {
+    "min": 59.9774,
+    "max": 60.0031,
+    "avg": 59.995,
+    "std": 0.003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario70"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed68"
+  },
+  "pattern": {
+    "min": 59.987,
+    "max": 60.0539,
+    "avg": 60.005,
+    "std": 0.0076,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario122"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee86"
+  },
+  "pattern": {
+    "min": 59.9854,
+    "max": 60.055,
+    "avg": 60.0055,
+    "std": 0.0059,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario422"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee95"
+  },
+  "pattern": {
+    "min": 59.9829,
+    "max": 60.0685,
+    "avg": 60.0074,
+    "std": 0.0074,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario437"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed4b"
+  },
+  "pattern": {
+    "min": 59.9792,
+    "max": 60.0019,
+    "avg": 59.9947,
+    "std": 0.0023,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario93"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed84"
+  },
+  "pattern": {
+    "min": 59.9929,
+    "max": 60.008,
+    "avg": 59.9992,
+    "std": 0.0009,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario150"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed6b"
+  },
+  "pattern": {
+    "min": 59.9966,
+    "max": 60.0423,
+    "avg": 60.0074,
+    "std": 0.0056,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario125"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eda0"
+  },
+  "pattern": {
+    "min": 59.9907,
+    "max": 60.005,
+    "avg": 59.9998,
+    "std": 0.0014,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario181"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee00"
+  },
+  "pattern": {
+    "min": 59.9749,
+    "max": 60.0043,
+    "avg": 59.9938,
+    "std": 0.0033,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario281"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee58"
+  },
+  "pattern": {
+    "min": 59.9742,
+    "max": 60.0086,
+    "avg": 59.9987,
+    "std": 0.0034,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario376"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee98"
+  },
+  "pattern": {
+    "min": 59.9893,
+    "max": 60.0095,
+    "avg": 60.0007,
+    "std": 0.0006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario440"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edd7"
+  },
+  "pattern": {
+    "min": 59.9983,
+    "max": 60.0059,
+    "avg": 60.0002,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario239"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee5a"
+  },
+  "pattern": {
+    "min": 59.9916,
+    "max": 60.0024,
+    "avg": 59.9997,
+    "std": 0.0008,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario378"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed1d"
+  },
+  "pattern": {
+    "min": 59.9778,
+    "max": 60.0079,
+    "avg": 60.0002,
+    "std": 0.002,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario43"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed21"
+  },
+  "pattern": {
+    "min": 59.9773,
+    "max": 60.0441,
+    "avg": 59.9976,
+    "std": 0.006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario47"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed31"
+  },
+  "pattern": {
+    "min": 59.9988,
+    "max": 60.0377,
+    "avg": 60.0082,
+    "std": 0.0045,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario63"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed2d"
+  },
+  "pattern": {
+    "min": 59.9932,
+    "max": 60.0206,
+    "avg": 60.0013,
+    "std": 0.0018,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario59"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee2b"
+  },
+  "pattern": {
+    "min": 59.9862,
+    "max": 60.0165,
+    "avg": 59.9969,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario327"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee63"
+  },
+  "pattern": {
+    "min": 59.9978,
+    "max": 60.0088,
+    "avg": 60.0008,
+    "std": 0.0013,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario387"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee84"
+  },
+  "pattern": {
+    "min": 59.9964,
+    "max": 60.0153,
+    "avg": 60.0017,
+    "std": 0.0017,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario420"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ede2"
+  },
+  "pattern": {
+    "min": 59.9937,
+    "max": 60.0041,
+    "avg": 60.0004,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario250"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee41"
+  },
+  "pattern": {
+    "min": 59.9771,
+    "max": 60.0149,
+    "avg": 60.0026,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario352"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee71"
+  },
+  "pattern": {
+    "min": 59.9979,
+    "max": 60.0064,
+    "avg": 60.0003,
+    "std": 0.0006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario401"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed60"
+  },
+  "pattern": {
+    "min": 59.9752,
+    "max": 60.0144,
+    "avg": 59.9952,
+    "std": 0.0032,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario114"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edbd"
+  },
+  "pattern": {
+    "min": 59.9959,
+    "max": 60.0439,
+    "avg": 60.0114,
+    "std": 0.0055,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario213"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee0d"
+  },
+  "pattern": {
+    "min": 59.9923,
+    "max": 60.005,
+    "avg": 60.0005,
+    "std": 0.0006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario295"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eda1"
+  },
+  "pattern": {
+    "min": 59.9976,
+    "max": 60.0249,
+    "avg": 60.0064,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario183"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eda7"
+  },
+  "pattern": {
+    "min": 59.974,
+    "max": 60.0026,
+    "avg": 59.9928,
+    "std": 0.0033,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario189"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee96"
+  },
+  "pattern": {
+    "min": 59.9969,
+    "max": 60.0099,
+    "avg": 60.0002,
+    "std": 0.0012,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario438"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edd4"
+  },
+  "pattern": {
+    "min": 59.9944,
+    "max": 60.002,
+    "avg": 59.9996,
+    "std": 0.0002,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario236"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee94"
+  },
+  "pattern": {
+    "min": 59.9856,
+    "max": 60.0042,
+    "avg": 60.0003,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario436"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed10"
+  },
+  "pattern": {
+    "min": 59.9947,
+    "max": 60.0303,
+    "avg": 60.0081,
+    "std": 0.0036,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario29"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed17"
+  },
+  "pattern": {
+    "min": 59.9728,
+    "max": 60.0304,
+    "avg": 60.0058,
+    "std": 0.0045,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario37"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed09"
+  },
+  "pattern": {
+    "min": 59.9777,
+    "max": 60.0244,
+    "avg": 60.0046,
+    "std": 0.0036,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario22"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed1c"
+  },
+  "pattern": {
+    "min": 59.9545,
+    "max": 60.0587,
+    "avg": 59.9945,
+    "std": 0.0076,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario42"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed20"
+  },
+  "pattern": {
+    "min": 59.9693,
+    "max": 60.0175,
+    "avg": 60.0024,
+    "std": 0.0043,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario46"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ecfa"
+  },
+  "pattern": {
+    "min": 59.9924,
+    "max": 60.0123,
+    "avg": 60.0008,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario6"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed27"
+  },
+  "pattern": {
+    "min": 59.9749,
+    "max": 60.0088,
+    "avg": 59.9988,
+    "std": 0.003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario53"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ecff"
+  },
+  "pattern": {
+    "min": 59.9982,
+    "max": 60.0086,
+    "avg": 60.0021,
+    "std": 0.0011,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario11"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed4e"
+  },
+  "pattern": {
+    "min": 59.9986,
+    "max": 60.0186,
+    "avg": 60.0046,
+    "std": 0.0024,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario96"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edc2"
+  },
+  "pattern": {
+    "min": 59.9591,
+    "max": 59.9978,
+    "avg": 59.989,
+    "std": 0.0061,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario218"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eddd"
+  },
+  "pattern": {
+    "min": 59.9914,
+    "max": 60.025,
+    "avg": 60.001,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario245"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edd2"
+  },
+  "pattern": {
+    "min": 59.9981,
+    "max": 60.0052,
+    "avg": 60.0001,
+    "std": 0.0004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario234"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee38"
+  },
+  "pattern": {
+    "min": 59.9816,
+    "max": 60.0191,
+    "avg": 60.0007,
+    "std": 0.0018,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario342"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed69"
+  },
+  "pattern": {
+    "min": 59.9647,
+    "max": 60.0035,
+    "avg": 59.9913,
+    "std": 0.0039,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario123"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eddf"
+  },
+  "pattern": {
+    "min": 59.9977,
+    "max": 60.0071,
+    "avg": 60.0009,
+    "std": 0.0003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario247"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee2c"
+  },
+  "pattern": {
+    "min": 59.9961,
+    "max": 60.0008,
+    "avg": 59.9997,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario328"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed6f"
+  },
+  "pattern": {
+    "min": 59.97,
+    "max": 60.0179,
+    "avg": 59.9943,
+    "std": 0.0039,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario129"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edee"
+  },
+  "pattern": {
+    "min": 59.9717,
+    "max": 60.0168,
+    "avg": 60.0027,
+    "std": 0.003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario262"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee93"
+  },
+  "pattern": {
+    "min": 59.995,
+    "max": 60.0219,
+    "avg": 60.0026,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario435"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed9f"
+  },
+  "pattern": {
+    "min": 59.9881,
+    "max": 60.0141,
+    "avg": 59.9989,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario180"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eddb"
+  },
+  "pattern": {
+    "min": 59.9978,
+    "max": 60.0082,
+    "avg": 60.0007,
+    "std": 0.0006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario243"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee56"
+  },
+  "pattern": {
+    "min": 59.9959,
+    "max": 60.0128,
+    "avg": 60.0005,
+    "std": 0.0017,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario374"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee7a"
+  },
+  "pattern": {
+    "min": 59.9935,
+    "max": 60.005,
+    "avg": 60.0002,
+    "std": 0.0003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario410"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed59"
+  },
+  "pattern": {
+    "min": 59.989,
+    "max": 60.0434,
+    "avg": 60.0038,
+    "std": 0.0061,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario107"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed8f"
+  },
+  "pattern": {
+    "min": 59.9943,
+    "max": 60.0341,
+    "avg": 60.0048,
+    "std": 0.0053,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario162"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed96"
+  },
+  "pattern": {
+    "min": 59.9871,
+    "max": 60.0605,
+    "avg": 60.0075,
+    "std": 0.0079,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario169"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee42"
+  },
+  "pattern": {
+    "min": 59.9702,
+    "max": 59.9982,
+    "avg": 59.9933,
+    "std": 0.0043,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario353"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edb8"
+  },
+  "pattern": {
+    "min": 59.9585,
+    "max": 60.0034,
+    "avg": 59.9892,
+    "std": 0.0053,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario207"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee4a"
+  },
+  "pattern": {
+    "min": 59.9914,
+    "max": 60.0296,
+    "avg": 60.0022,
+    "std": 0.0042,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario362"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed6c"
+  },
+  "pattern": {
+    "min": 59.9989,
+    "max": 60.0338,
+    "avg": 60.0086,
+    "std": 0.0043,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario126"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee72"
+  },
+  "pattern": {
+    "min": 59.9984,
+    "max": 60.0062,
+    "avg": 60.0006,
+    "std": 0.0009,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario402"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee3e"
+  },
+  "pattern": {
+    "min": 59.9942,
+    "max": 60.0182,
+    "avg": 60.0044,
+    "std": 0.0022,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario349"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee8f"
+  },
+  "pattern": {
+    "min": 59.9823,
+    "max": 60.0041,
+    "avg": 59.9978,
+    "std": 0.0026,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario431"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed4f"
+  },
+  "pattern": {
+    "min": 59.9737,
+    "max": 60.0291,
+    "avg": 60.0063,
+    "std": 0.0041,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario97"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edec"
+  },
+  "pattern": {
+    "min": 59.9783,
+    "max": 60.0295,
+    "avg": 59.9973,
+    "std": 0.0038,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario260"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee1b"
+  },
+  "pattern": {
+    "min": 59.9764,
+    "max": 60.0262,
+    "avg": 59.9951,
+    "std": 0.0043,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario309"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee70"
+  },
+  "pattern": {
+    "min": 59.996,
+    "max": 60.0041,
+    "avg": 60.0001,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario400"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edcb"
+  },
+  "pattern": {
+    "min": 59.9926,
+    "max": 60.0267,
+    "avg": 60.0014,
+    "std": 0.0032,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario227"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ecf8"
+  },
+  "pattern": {
+    "min": 59.9911,
+    "max": 60.0034,
+    "avg": 59.9998,
+    "std": 0.0011,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario4"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed51"
+  },
+  "pattern": {
+    "min": 59.9822,
+    "max": 60.01,
+    "avg": 59.9965,
+    "std": 0.0023,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario99"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edce"
+  },
+  "pattern": {
+    "min": 59.9938,
+    "max": 60.0175,
+    "avg": 60.0006,
+    "std": 0.0017,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario230"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee08"
+  },
+  "pattern": {
+    "min": 59.9896,
+    "max": 60.0308,
+    "avg": 60.0013,
+    "std": 0.003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario290"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed64"
+  },
+  "pattern": {
+    "min": 59.9934,
+    "max": 60.0058,
+    "avg": 60,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario118"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed9e"
+  },
+  "pattern": {
+    "min": 59.994,
+    "max": 60.0248,
+    "avg": 60.003,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario179"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edf8"
+  },
+  "pattern": {
+    "min": 59.9915,
+    "max": 60.0185,
+    "avg": 60.0047,
+    "std": 0.0026,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario273"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed94"
+  },
+  "pattern": {
+    "min": 59.9814,
+    "max": 60.0726,
+    "avg": 60.006,
+    "std": 0.0094,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario167"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed8b"
+  },
+  "pattern": {
+    "min": 59.9688,
+    "max": 60.0158,
+    "avg": 59.9987,
+    "std": 0.0023,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario157"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edfa"
+  },
+  "pattern": {
+    "min": 59.9901,
+    "max": 60.0115,
+    "avg": 59.9981,
+    "std": 0.0018,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario275"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee15"
+  },
+  "pattern": {
+    "min": 59.9875,
+    "max": 60.008,
+    "avg": 60.0012,
+    "std": 0.0014,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario303"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edab"
+  },
+  "pattern": {
+    "min": 59.9982,
+    "max": 60.0023,
+    "avg": 60.0005,
+    "std": 0.0004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario193"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edf4"
+  },
+  "pattern": {
+    "min": 59.9978,
+    "max": 60.0004,
+    "avg": 59.9998,
+    "std": 0.0003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario268"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee3a"
+  },
+  "pattern": {
+    "min": 59.9761,
+    "max": 60.0035,
+    "avg": 59.9936,
+    "std": 0.0032,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario344"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edd9"
+  },
+  "pattern": {
+    "min": 59.9854,
+    "max": 60.0072,
+    "avg": 60.0007,
+    "std": 0.002,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario241"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee0b"
+  },
+  "pattern": {
+    "min": 59.9515,
+    "max": 60.0184,
+    "avg": 59.9989,
+    "std": 0.0057,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario293"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee66"
+  },
+  "pattern": {
+    "min": 59.9967,
+    "max": 60.004,
+    "avg": 60,
+    "std": 0.0004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario390"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edbf"
+  },
+  "pattern": {
+    "min": 59.9749,
+    "max": 60.0056,
+    "avg": 59.9945,
+    "std": 0.0026,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario215"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee10"
+  },
+  "pattern": {
+    "min": 59.9942,
+    "max": 60.0012,
+    "avg": 59.9995,
+    "std": 0.0009,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario298"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ecfc"
+  },
+  "pattern": {
+    "min": 59.9771,
+    "max": 59.9995,
+    "avg": 59.9939,
+    "std": 0.0035,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario8"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed34"
+  },
+  "pattern": {
+    "min": 59.9648,
+    "max": 60.0126,
+    "avg": 59.9985,
+    "std": 0.0042,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario68"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed2c"
+  },
+  "pattern": {
+    "min": 59.9823,
+    "max": 60.0051,
+    "avg": 59.9961,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario58"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed39"
+  },
+  "pattern": {
+    "min": 59.9751,
+    "max": 60.0074,
+    "avg": 59.9947,
+    "std": 0.0036,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario73"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed73"
+  },
+  "pattern": {
+    "min": 59.9921,
+    "max": 60.0073,
+    "avg": 60,
+    "std": 0.0007,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario133"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee7c"
+  },
+  "pattern": {
+    "min": 59.9969,
+    "max": 60.0088,
+    "avg": 60.0004,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario412"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edaa"
+  },
+  "pattern": {
+    "min": 59.9703,
+    "max": 60.0024,
+    "avg": 59.9922,
+    "std": 0.0038,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario192"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed88"
+  },
+  "pattern": {
+    "min": 59.9888,
+    "max": 60.0489,
+    "avg": 60.0057,
+    "std": 0.0064,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario154"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edaf"
+  },
+  "pattern": {
+    "min": 59.9966,
+    "max": 60.0356,
+    "avg": 60.0092,
+    "std": 0.0044,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario198"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edba"
+  },
+  "pattern": {
+    "min": 60,
+    "max": 60.03,
+    "avg": 60.0078,
+    "std": 0.0036,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario209"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed71"
+  },
+  "pattern": {
+    "min": 59.9428,
+    "max": 60.0141,
+    "avg": 59.9945,
+    "std": 0.0081,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario131"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edb3"
+  },
+  "pattern": {
+    "min": 59.9957,
+    "max": 60.024,
+    "avg": 60.0063,
+    "std": 0.003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario202"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee13"
+  },
+  "pattern": {
+    "min": 59.9717,
+    "max": 60.0163,
+    "avg": 60.0032,
+    "std": 0.0035,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario301"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee59"
+  },
+  "pattern": {
+    "min": 59.9929,
+    "max": 60.0241,
+    "avg": 60.0017,
+    "std": 0.0034,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario377"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee64"
+  },
+  "pattern": {
+    "min": 59.9945,
+    "max": 60.0014,
+    "avg": 59.9997,
+    "std": 0.0009,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario388"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edf1"
+  },
+  "pattern": {
+    "min": 59.9897,
+    "max": 60.0037,
+    "avg": 60.0001,
+    "std": 0.0009,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario265"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edb0"
+  },
+  "pattern": {
+    "min": 59.9947,
+    "max": 60.0003,
+    "avg": 59.9991,
+    "std": 0.0008,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario199"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edca"
+  },
+  "pattern": {
+    "min": 59.9894,
+    "max": 60.0049,
+    "avg": 60.0003,
+    "std": 0.0014,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario226"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed97"
+  },
+  "pattern": {
+    "min": 59.9895,
+    "max": 60.0165,
+    "avg": 59.9976,
+    "std": 0.0024,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario170"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edf9"
+  },
+  "pattern": {
+    "min": 59.9966,
+    "max": 60.0103,
+    "avg": 60.0025,
+    "std": 0.0013,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario274"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee75"
+  },
+  "pattern": {
+    "min": 59.9977,
+    "max": 60.0028,
+    "avg": 60,
+    "std": 0.0003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario405"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed70"
+  },
+  "pattern": {
+    "min": 59.9708,
+    "max": 60.0037,
+    "avg": 59.9956,
+    "std": 0.0038,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario130"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eda8"
+  },
+  "pattern": {
+    "min": 59.9869,
+    "max": 60.0004,
+    "avg": 59.9967,
+    "std": 0.0017,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario190"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee85"
+  },
+  "pattern": {
+    "min": 59.988,
+    "max": 60.0034,
+    "avg": 60.0002,
+    "std": 0.0016,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario421"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee3c"
+  },
+  "pattern": {
+    "min": 59.9707,
+    "max": 60.0119,
+    "avg": 60.0005,
+    "std": 0.004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario346"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed00"
+  },
+  "pattern": {
+    "min": 59.9716,
+    "max": 60.0332,
+    "avg": 59.9951,
+    "std": 0.0045,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario12"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee6a"
+  },
+  "pattern": {
+    "min": 59.9938,
+    "max": 60.002,
+    "avg": 59.9999,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario394"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed74"
+  },
+  "pattern": {
+    "min": 59.9963,
+    "max": 60.0237,
+    "avg": 60.0063,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario134"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed7f"
+  },
+  "pattern": {
+    "min": 59.9912,
+    "max": 60.0045,
+    "avg": 60.001,
+    "std": 0.0014,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario145"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee27"
+  },
+  "pattern": {
+    "min": 59.9632,
+    "max": 60.0028,
+    "avg": 59.9921,
+    "std": 0.0054,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario323"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed50"
+  },
+  "pattern": {
+    "min": 59.9877,
+    "max": 60.0156,
+    "avg": 60.0045,
+    "std": 0.0027,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario98"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee05"
+  },
+  "pattern": {
+    "min": 59.9878,
+    "max": 60.0475,
+    "avg": 60.0032,
+    "std": 0.0058,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario287"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee33"
+  },
+  "pattern": {
+    "min": 59.9812,
+    "max": 60.0121,
+    "avg": 60.002,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario337"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed92"
+  },
+  "pattern": {
+    "min": 59.9902,
+    "max": 60.0114,
+    "avg": 59.999,
+    "std": 0.0012,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario165"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eda3"
+  },
+  "pattern": {
+    "min": 59.9854,
+    "max": 60.0032,
+    "avg": 59.9967,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario185"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee25"
+  },
+  "pattern": {
+    "min": 59.979,
+    "max": 60.0437,
+    "avg": 59.9986,
+    "std": 0.005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario321"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee68"
+  },
+  "pattern": {
+    "min": 59.9948,
+    "max": 60.0169,
+    "avg": 60.0011,
+    "std": 0.0024,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario392"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee6c"
+  },
+  "pattern": {
+    "min": 59.9984,
+    "max": 60.0037,
+    "avg": 60.0001,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario396"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed5f"
+  },
+  "pattern": {
+    "min": 59.9829,
+    "max": 60.0228,
+    "avg": 60.0066,
+    "std": 0.0038,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario113"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edfc"
+  },
+  "pattern": {
+    "min": 59.9865,
+    "max": 60.0085,
+    "avg": 60.0013,
+    "std": 0.0018,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario277"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edd5"
+  },
+  "pattern": {
+    "min": 59.9941,
+    "max": 60.0038,
+    "avg": 60,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario237"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee5b"
+  },
+  "pattern": {
+    "min": 59.9913,
+    "max": 60.0028,
+    "avg": 59.9999,
+    "std": 0.0013,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario379"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed4c"
+  },
+  "pattern": {
+    "min": 59.99,
+    "max": 60.0302,
+    "avg": 60.0017,
+    "std": 0.0041,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario94"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed9d"
+  },
+  "pattern": {
+    "min": 59.9884,
+    "max": 60.0101,
+    "avg": 60,
+    "std": 0.0012,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario178"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee3f"
+  },
+  "pattern": {
+    "min": 59.9836,
+    "max": 60.0202,
+    "avg": 59.997,
+    "std": 0.003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario350"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee9c"
+  },
+  "pattern": {
+    "min": 59.9871,
+    "max": 60.0118,
+    "avg": 60,
+    "std": 0.0007,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario444"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed40"
+  },
+  "pattern": {
+    "min": 59.9752,
+    "max": 60.0082,
+    "avg": 59.9954,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario81"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edd8"
+  },
+  "pattern": {
+    "min": 59.997,
+    "max": 60.001,
+    "avg": 60,
+    "std": 0.0002,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario240"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee20"
+  },
+  "pattern": {
+    "min": 59.9852,
+    "max": 60.0184,
+    "avg": 60.0043,
+    "std": 0.0027,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario315"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed23"
+  },
+  "pattern": {
+    "min": 60.0027,
+    "max": 60.037,
+    "avg": 60.0101,
+    "std": 0.005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario49"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed13"
+  },
+  "pattern": {
+    "min": 59.9821,
+    "max": 60.0402,
+    "avg": 60.0103,
+    "std": 0.0056,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario33"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed0b"
+  },
+  "pattern": {
+    "min": 59.9653,
+    "max": 60.0213,
+    "avg": 59.9916,
+    "std": 0.005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario24"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edad"
+  },
+  "pattern": {
+    "min": 59.9982,
+    "max": 60.01,
+    "avg": 60.0015,
+    "std": 0.0007,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario195"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee77"
+  },
+  "pattern": {
+    "min": 59.9892,
+    "max": 60.038,
+    "avg": 60.0035,
+    "std": 0.0041,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario407"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed91"
+  },
+  "pattern": {
+    "min": 59.9949,
+    "max": 60.0198,
+    "avg": 60.0022,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario164"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edb5"
+  },
+  "pattern": {
+    "min": 59.9637,
+    "max": 60.0037,
+    "avg": 59.99,
+    "std": 0.0046,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario204"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed7c"
+  },
+  "pattern": {
+    "min": 59.9775,
+    "max": 60.0105,
+    "avg": 59.9988,
+    "std": 0.0017,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario142"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed86"
+  },
+  "pattern": {
+    "min": 59.9841,
+    "max": 60.0587,
+    "avg": 60.0045,
+    "std": 0.0076,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario152"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee74"
+  },
+  "pattern": {
+    "min": 59.9975,
+    "max": 60.0073,
+    "avg": 60.0002,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario404"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee52"
+  },
+  "pattern": {
+    "min": 59.9931,
+    "max": 60.0072,
+    "avg": 60.0002,
+    "std": 0.0008,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario370"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edf7"
+  },
+  "pattern": {
+    "min": 59.9829,
+    "max": 60.0066,
+    "avg": 60.0001,
+    "std": 0.0023,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario271"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee2e"
+  },
+  "pattern": {
+    "min": 59.9759,
+    "max": 60.0096,
+    "avg": 60.0003,
+    "std": 0.0033,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario331"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed6d"
+  },
+  "pattern": {
+    "min": 59.9555,
+    "max": 60.0528,
+    "avg": 60.0119,
+    "std": 0.0072,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario127"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee87"
+  },
+  "pattern": {
+    "min": 59.9974,
+    "max": 60.008,
+    "avg": 60.0001,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario423"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed99"
+  },
+  "pattern": {
+    "min": 59.9623,
+    "max": 60.0202,
+    "avg": 59.9987,
+    "std": 0.0028,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario172"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edfd"
+  },
+  "pattern": {
+    "min": 59.9827,
+    "max": 59.9989,
+    "avg": 59.996,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario278"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee16"
+  },
+  "pattern": {
+    "min": 59.9809,
+    "max": 60.006,
+    "avg": 59.9987,
+    "std": 0.0021,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario304"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee61"
+  },
+  "pattern": {
+    "min": 59.9943,
+    "max": 60.0058,
+    "avg": 60.0001,
+    "std": 0.0007,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario385"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed55"
+  },
+  "pattern": {
+    "min": 59.9953,
+    "max": 60.004,
+    "avg": 59.9999,
+    "std": 0.0004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario103"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed93"
+  },
+  "pattern": {
+    "min": 59.9581,
+    "max": 60.014,
+    "avg": 59.9983,
+    "std": 0.006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario166"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed22"
+  },
+  "pattern": {
+    "min": 59.9989,
+    "max": 60.0264,
+    "avg": 60.0055,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario48"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed1e"
+  },
+  "pattern": {
+    "min": 59.9936,
+    "max": 60.0371,
+    "avg": 60.01,
+    "std": 0.0045,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario44"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed0c"
+  },
+  "pattern": {
+    "min": 59.9794,
+    "max": 60.0185,
+    "avg": 59.9961,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario25"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed28"
+  },
+  "pattern": {
+    "min": 59.9673,
+    "max": 59.9992,
+    "avg": 59.9912,
+    "std": 0.0043,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario54"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edac"
+  },
+  "pattern": {
+    "min": 60,
+    "max": 60.0212,
+    "avg": 60.0055,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario194"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee65"
+  },
+  "pattern": {
+    "min": 59.9966,
+    "max": 60.0104,
+    "avg": 60.0004,
+    "std": 0.0014,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario389"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed8c"
+  },
+  "pattern": {
+    "min": 59.9713,
+    "max": 60.0089,
+    "avg": 59.9984,
+    "std": 0.0038,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario158"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee7f"
+  },
+  "pattern": {
+    "min": 59.9872,
+    "max": 60.0025,
+    "avg": 59.9983,
+    "std": 0.0013,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario415"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed7b"
+  },
+  "pattern": {
+    "min": 59.9959,
+    "max": 60.0152,
+    "avg": 60.0006,
+    "std": 0.0021,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario141"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee99"
+  },
+  "pattern": {
+    "min": 59.9827,
+    "max": 60.0049,
+    "avg": 59.999,
+    "std": 0.0023,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario441"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed5c"
+  },
+  "pattern": {
+    "min": 59.9971,
+    "max": 60.034,
+    "avg": 60.0058,
+    "std": 0.0045,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario110"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee4c"
+  },
+  "pattern": {
+    "min": 59.9893,
+    "max": 60.0035,
+    "avg": 59.9999,
+    "std": 0.0016,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario364"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed5e"
+  },
+  "pattern": {
+    "min": 59.9633,
+    "max": 60.0423,
+    "avg": 60.0094,
+    "std": 0.0058,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario112"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edae"
+  },
+  "pattern": {
+    "min": 59.987,
+    "max": 60.0071,
+    "avg": 59.9998,
+    "std": 0.002,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario196"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee24"
+  },
+  "pattern": {
+    "min": 59.966,
+    "max": 60.0519,
+    "avg": 59.9976,
+    "std": 0.0065,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario320"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee01"
+  },
+  "pattern": {
+    "min": 59.9869,
+    "max": 60.0134,
+    "avg": 60.0004,
+    "std": 0.0013,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario282"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edc9"
+  },
+  "pattern": {
+    "min": 59.9968,
+    "max": 60.0174,
+    "avg": 60.0027,
+    "std": 0.0013,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario225"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee48"
+  },
+  "pattern": {
+    "min": 59.9744,
+    "max": 59.9993,
+    "avg": 59.9931,
+    "std": 0.0035,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario360"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee7e"
+  },
+  "pattern": {
+    "min": 59.992,
+    "max": 60.0059,
+    "avg": 59.9997,
+    "std": 0.0004,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario414"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed8e"
+  },
+  "pattern": {
+    "min": 59.9879,
+    "max": 60.0064,
+    "avg": 60.0016,
+    "std": 0.002,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario160"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eea1"
+  },
+  "pattern": {
+    "min": 59.9889,
+    "max": 60.0212,
+    "avg": 60.0057,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario449"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee89"
+  },
+  "pattern": {
+    "min": 59.9911,
+    "max": 60.0074,
+    "avg": 60.0005,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario425"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee2d"
+  },
+  "pattern": {
+    "min": 59.9819,
+    "max": 60.0229,
+    "avg": 60.0054,
+    "std": 0.0034,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario330"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edeb"
+  },
+  "pattern": {
+    "min": 59.9864,
+    "max": 60.0042,
+    "avg": 59.999,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario259"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed61"
+  },
+  "pattern": {
+    "min": 59.9759,
+    "max": 60.0029,
+    "avg": 59.9962,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario115"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edb7"
+  },
+  "pattern": {
+    "min": 59.9961,
+    "max": 60.0093,
+    "avg": 60.0017,
+    "std": 0.0011,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario206"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eea2"
+  },
+  "pattern": {
+    "min": 59.994,
+    "max": 60.0271,
+    "avg": 60.0033,
+    "std": 0.0031,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario450"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed11"
+  },
+  "pattern": {
+    "min": 59.9954,
+    "max": 60.0148,
+    "avg": 60.0021,
+    "std": 0.0012,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario30"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed16"
+  },
+  "pattern": {
+    "min": 59.9868,
+    "max": 60.0215,
+    "avg": 60.0016,
+    "std": 0.0026,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario36"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed32"
+  },
+  "pattern": {
+    "min": 59.9965,
+    "max": 60.0389,
+    "avg": 60.0098,
+    "std": 0.0054,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario65"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed2b"
+  },
+  "pattern": {
+    "min": 59.9965,
+    "max": 60.0214,
+    "avg": 60.0056,
+    "std": 0.0027,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario57"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed33"
+  },
+  "pattern": {
+    "min": 59.9797,
+    "max": 60.0067,
+    "avg": 59.9961,
+    "std": 0.0021,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario66"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed35"
+  },
+  "pattern": {
+    "min": 59.954,
+    "max": 59.9988,
+    "avg": 59.9878,
+    "std": 0.0061,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario69"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed0a"
+  },
+  "pattern": {
+    "min": 59.9677,
+    "max": 59.9994,
+    "avg": 59.9915,
+    "std": 0.0049,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario23"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee69"
+  },
+  "pattern": {
+    "min": 59.994,
+    "max": 60.0017,
+    "avg": 59.9998,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario393"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eda5"
+  },
+  "pattern": {
+    "min": 59.997,
+    "max": 60.0168,
+    "avg": 60.0044,
+    "std": 0.0021,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario187"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee17"
+  },
+  "pattern": {
+    "min": 59.9709,
+    "max": 60.0421,
+    "avg": 59.9971,
+    "std": 0.0053,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario305"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee8a"
+  },
+  "pattern": {
+    "min": 59.9856,
+    "max": 60.0039,
+    "avg": 59.9991,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario426"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee97"
+  },
+  "pattern": {
+    "min": 59.9948,
+    "max": 60.03,
+    "avg": 60.0054,
+    "std": 0.0042,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario439"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed62"
+  },
+  "pattern": {
+    "min": 59.9528,
+    "max": 60.0112,
+    "avg": 59.995,
+    "std": 0.0066,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario116"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed83"
+  },
+  "pattern": {
+    "min": 59.9963,
+    "max": 60.0136,
+    "avg": 60.0013,
+    "std": 0.001,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario149"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed89"
+  },
+  "pattern": {
+    "min": 59.9911,
+    "max": 60.0132,
+    "avg": 59.9979,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario155"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee54"
+  },
+  "pattern": {
+    "min": 59.9974,
+    "max": 60.0108,
+    "avg": 60.001,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario372"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee91"
+  },
+  "pattern": {
+    "min": 59.9907,
+    "max": 60.0058,
+    "avg": 59.9986,
+    "std": 0.0013,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario433"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ede7"
+  },
+  "pattern": {
+    "min": 59.9958,
+    "max": 60.0014,
+    "avg": 60,
+    "std": 0.0003,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario255"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ede0"
+  },
+  "pattern": {
+    "min": 59.9601,
+    "max": 60.0149,
+    "avg": 59.9989,
+    "std": 0.0047,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario248"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ede4"
+  },
+  "pattern": {
+    "min": 59.9918,
+    "max": 60.0055,
+    "avg": 60.0001,
+    "std": 0.0008,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario252"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed77"
+  },
+  "pattern": {
+    "min": 59.9881,
+    "max": 60.0409,
+    "avg": 60.0027,
+    "std": 0.0053,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario137"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eddc"
+  },
+  "pattern": {
+    "min": 59.9654,
+    "max": 60.0103,
+    "avg": 59.9986,
+    "std": 0.0034,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario244"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edf2"
+  },
+  "pattern": {
+    "min": 59.9898,
+    "max": 60.007,
+    "avg": 59.9979,
+    "std": 0.0013,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario266"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee57"
+  },
+  "pattern": {
+    "min": 59.996,
+    "max": 60.005,
+    "avg": 60,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario375"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed85"
+  },
+  "pattern": {
+    "min": 59.9655,
+    "max": 60.0112,
+    "avg": 59.9983,
+    "std": 0.0049,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario151"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edc6"
+  },
+  "pattern": {
+    "min": 59.9496,
+    "max": 60.0042,
+    "avg": 59.9869,
+    "std": 0.0064,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario222"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed04"
+  },
+  "pattern": {
+    "min": 59.9375,
+    "max": 60.0195,
+    "avg": 59.9971,
+    "std": 0.0061,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario16"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed26"
+  },
+  "pattern": {
+    "min": 59.9917,
+    "max": 60.0342,
+    "avg": 60.0092,
+    "std": 0.0046,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario52"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed08"
+  },
+  "pattern": {
+    "min": 59.9892,
+    "max": 60.0174,
+    "avg": 60.0013,
+    "std": 0.0021,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario21"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed1b"
+  },
+  "pattern": {
+    "min": 59.997,
+    "max": 60.015,
+    "avg": 60.0037,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario41"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed02"
+  },
+  "pattern": {
+    "min": 59.9962,
+    "max": 60.0213,
+    "avg": 60.0056,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario14"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed53"
+  },
+  "pattern": {
+    "min": 59.9661,
+    "max": 60.0077,
+    "avg": 59.996,
+    "std": 0.0047,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario101"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee3b"
+  },
+  "pattern": {
+    "min": 59.9791,
+    "max": 59.9994,
+    "avg": 59.9943,
+    "std": 0.0028,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario345"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee8d"
+  },
+  "pattern": {
+    "min": 59.9891,
+    "max": 60.0091,
+    "avg": 59.9998,
+    "std": 0.0006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario429"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee9a"
+  },
+  "pattern": {
+    "min": 59.9951,
+    "max": 60.0159,
+    "avg": 60.0011,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario442"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed98"
+  },
+  "pattern": {
+    "min": 59.9934,
+    "max": 60.0277,
+    "avg": 60.0016,
+    "std": 0.0038,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario171"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee2f"
+  },
+  "pattern": {
+    "min": 59.9881,
+    "max": 60.0266,
+    "avg": 60.0068,
+    "std": 0.0037,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario333"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee5c"
+  },
+  "pattern": {
+    "min": 59.9945,
+    "max": 60.0151,
+    "avg": 60.0006,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario380"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed57"
+  },
+  "pattern": {
+    "min": 59.9986,
+    "max": 60.0152,
+    "avg": 60.0038,
+    "std": 0.0019,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario105"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee40"
+  },
+  "pattern": {
+    "min": 59.9929,
+    "max": 60.0168,
+    "avg": 60.0021,
+    "std": 0.0024,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario351"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2edb9"
+  },
+  "pattern": {
+    "min": 59.9975,
+    "max": 60.0033,
+    "avg": 60.0007,
+    "std": 0.0005,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario208"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee6e"
+  },
+  "pattern": {
+    "min": 59.9904,
+    "max": 60.0035,
+    "avg": 59.9998,
+    "std": 0.0015,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario398"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed42"
+  },
+  "pattern": {
+    "min": 59.944,
+    "max": 59.9986,
+    "avg": 59.9852,
+    "std": 0.0074,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario84"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed75"
+  },
+  "pattern": {
+    "min": 59.9977,
+    "max": 60.0272,
+    "avg": 60.007,
+    "std": 0.0034,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario135"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee43"
+  },
+  "pattern": {
+    "min": 59.9674,
+    "max": 60.0014,
+    "avg": 59.9912,
+    "std": 0.0042,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario355"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee29"
+  },
+  "pattern": {
+    "min": 59.9824,
+    "max": 60.0065,
+    "avg": 60.0004,
+    "std": 0.0016,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario325"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee6d"
+  },
+  "pattern": {
+    "min": 59.985,
+    "max": 60.0053,
+    "avg": 59.9994,
+    "std": 0.0016,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario397"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee9f"
+  },
+  "pattern": {
+    "min": 59.9933,
+    "max": 60.0216,
+    "avg": 60.0006,
+    "std": 0.0028,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario447"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee23"
+  },
+  "pattern": {
+    "min": 59.9767,
+    "max": 60.0074,
+    "avg": 59.9985,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario319"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ede5"
+  },
+  "pattern": {
+    "min": 59.9952,
+    "max": 60.001,
+    "avg": 59.9996,
+    "std": 0.0007,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario253"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee2a"
+  },
+  "pattern": {
+    "min": 59.9826,
+    "max": 60.0123,
+    "avg": 59.9964,
+    "std": 0.0022,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario326"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee4f"
+  },
+  "pattern": {
+    "min": 59.9743,
+    "max": 60.0093,
+    "avg": 59.9991,
+    "std": 0.0027,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario367"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee7b"
+  },
+  "pattern": {
+    "min": 59.9895,
+    "max": 60.0027,
+    "avg": 59.9992,
+    "std": 0.0014,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario411"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed0e"
+  },
+  "pattern": {
+    "min": 59.9619,
+    "max": 60.0475,
+    "avg": 59.9943,
+    "std": 0.0062,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario27"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2eda4"
+  },
+  "pattern": {
+    "min": 59.9944,
+    "max": 60.0101,
+    "avg": 60.0013,
+    "std": 0.0011,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario186"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed45"
+  },
+  "pattern": {
+    "min": 59.9949,
+    "max": 60.0377,
+    "avg": 60.0102,
+    "std": 0.0048,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario87"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee0f"
+  },
+  "pattern": {
+    "min": 59.99,
+    "max": 60.0069,
+    "avg": 60.0001,
+    "std": 0.0009,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario297"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee44"
+  },
+  "pattern": {
+    "min": 59.9572,
+    "max": 60.0076,
+    "avg": 59.9897,
+    "std": 0.0057,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario356"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee76"
+  },
+  "pattern": {
+    "min": 59.9913,
+    "max": 60.0023,
+    "avg": 60,
+    "std": 0.0011,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario406"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed76"
+  },
+  "pattern": {
+    "min": 59.9752,
+    "max": 60.0077,
+    "avg": 59.9986,
+    "std": 0.0035,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario136"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee22"
+  },
+  "pattern": {
+    "min": 59.9848,
+    "max": 60.01,
+    "avg": 60.0015,
+    "std": 0.0017,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario318"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee1e"
+  },
+  "pattern": {
+    "min": 59.9885,
+    "max": 60.0134,
+    "avg": 59.9974,
+    "std": 0.0021,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario312"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ed3f"
+  },
+  "pattern": {
+    "min": 59.9958,
+    "max": 60.0479,
+    "avg": 60.0122,
+    "std": 0.0066,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario80"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee51"
+  },
+  "pattern": {
+    "min": 59.9964,
+    "max": 60.012,
+    "avg": 60.0008,
+    "std": 0.0011,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario369"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee80"
+  },
+  "pattern": {
+    "min": 59.9874,
+    "max": 60.0028,
+    "avg": 59.9984,
+    "std": 0.0018,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario416"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ede9"
+  },
+  "pattern": {
+    "min": 60.0021,
+    "max": 60.034,
+    "avg": 60.0088,
+    "std": 0.0054,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario257"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee31"
+  },
+  "pattern": {
+    "min": 59.9864,
+    "max": 60.0164,
+    "avg": 59.9975,
+    "std": 0.0025,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario335"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee6f"
+  },
+  "pattern": {
+    "min": 59.9979,
+    "max": 60.0068,
+    "avg": 60.0004,
+    "std": 0.0006,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario399"
+},{
+  "_id": {
+    "$oid": "5fbeb895e98c620967f2ee82"
+  },
+  "pattern": {
+    "min": 59.9934,
+    "max": 60.004,
+    "avg": 59.9989,
+    "std": 0.0009,
+    "no_of_samples": 1375
+  },
+  "measurement": "frequency",
+  "data_path": "/content/drive/My Drive/myThesis/test001/Training/scenario418"
+}]
